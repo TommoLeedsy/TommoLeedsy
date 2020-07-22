@@ -8,7 +8,7 @@ I'm a Technology Degree Apprentice, employed by PwC and studying a the Universit
   * Rust
   * C
   * Visual Basic
-<br />
+<br>
   * HTML
   * PHP
   * CSS (SCSS and SASS)
