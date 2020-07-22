@@ -1,6 +1,6 @@
 # Thomas Leeds
 
-I'm a Technology Degree Apprentice, employed by PwC and studying a the University of Leeds
+I'm a Technology Degree Apprentice, employed by PwC and studying at the University of Leeds
 
 ### Languages:
   * Pyhton
