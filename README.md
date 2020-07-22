@@ -2,7 +2,7 @@
 
 I'm a Technology Degree Apprentice, employed by PwC and studying a the University of Leeds
 
-## Languages:
+### Languages:
 * Pyhton
 * React
 * Rust
