@@ -22,6 +22,7 @@ I'm a Technology Degree Apprentice, employed by PwC and studying at the Universi
     * Node.js
   * Python
     * Flask
+    * FastAPI
     * Django
 
 ### Developer Tools:
