@@ -6,6 +6,7 @@ I'm a Technology Degree Apprentice, employed by PwC and studying at the Universi
   * C
   * Java
   * Rust
+  * GoLang
   * Python
   * JavaScript
   * Visual Basic
@@ -24,6 +25,8 @@ I'm a Technology Degree Apprentice, employed by PwC and studying at the Universi
     * Flask
     * FastAPI
     * Django
+  * GoLang
+    * Gin
 
 ### Developer Tools:
   * Git
